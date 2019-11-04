@@ -10,7 +10,7 @@ In this Pages you will see some place details in canada, you can see more detail
 2. Double click and run index.html final (Make sure you have browser installed).
 
 
-#Edit App Files.
+# Edit App Files.
 1. Download tripCada Folder to local repository.
 2.Install any Text Editor which support html.
 3.open any files using Text Editor to edit.
